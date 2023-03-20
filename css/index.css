@@ -204,7 +204,7 @@ a {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100vw;
+    width: 100%;
     height: 100%;
     background-position: center;
     background-size: cover;
@@ -214,9 +214,9 @@ a {
   }
   .swiper-slide .content {
     position: absolute;
-    top: 40%;
+    top: 20%;
     left: 0;
-    width: 50%;
+    width: 100%;
     padding-left: 5%;
     color: #fff;
   }
@@ -224,6 +224,7 @@ a {
     font-size: 1.6rem;
     font-weight: bold;
     margin-bottom: 30px;
+    width: 100%;
   }
   .swiper-slide .content .caption {
     display: block;
