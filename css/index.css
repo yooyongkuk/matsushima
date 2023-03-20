@@ -186,6 +186,7 @@ a {
   }
   .swiper-container.nav-slider .swiper-slide .content .title {
     font-size: 1rem;
+    width: 100%;
   }
   .swiper-container:hover .swiper-button-prev,
   .swiper-container:hover .swiper-button-next {
@@ -214,9 +215,9 @@ a {
   }
   .swiper-slide .content {
     position: absolute;
-    top: 20%;
+    top: 40%;
     left: 0;
-    width: 100%;
+    width: 80%;
     padding-left: 5%;
     color: #fff;
   }
@@ -224,7 +225,7 @@ a {
     font-size: 1.6rem;
     font-weight: bold;
     margin-bottom: 30px;
-    width: 100%;
+    width: 80%;
   }
   .swiper-slide .content .caption {
     display: block;
